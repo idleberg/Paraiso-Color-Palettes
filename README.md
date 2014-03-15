@@ -1,6 +1,6 @@
 # Paraíso Palettes
 
-Color palettes inspired by the colorful illustrations by Brazilian artist [Rubens LP][1].
+Color palettes inspired by the colorful illustrations by Brazilian artist [Rubens LP](http://www.rubenslp.com.br/).
 
 ## Installation
 
@@ -21,12 +21,8 @@ Color palettes inspired by the colorful illustrations by Brazilian artist [Ruben
 
 ## License
 
-This work by Jan T. Sott is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][2].
+This work by Jan T. Sott is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US).
 
 ## Donate
 
-[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][3]
-
-[1]: http://www.rubenslp.com.br/
-[2]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[3]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso-Color-Palettes/&title=Paraiso&20Color%20Scheme&description=A%29color%29scheme%29inspired%29by%29the%29colorful%29illustrations%29by%29Brazilian%29artist%29Rubens%29LP&language=en_GB&tags=palettes,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso-Color-Palettes) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
